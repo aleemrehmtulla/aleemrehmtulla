@@ -1,4 +1,4 @@
-👋 wsp!! i'm aleem :)
+## 👋 wsp!! i'm aleem :)
 
 - currently eng @ buildspace.so 🦄
 - always shippin' something new 🏗
